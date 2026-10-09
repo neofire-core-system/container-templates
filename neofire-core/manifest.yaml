@@ -48,7 +48,7 @@ license:
 categories:
   - productivity
 screenshots:
-  - bg: background.jpg
+  - bg: background-white.jpg
     screenshot: screenshot-logo.png
     text:
       de: neofire Core – Shopsystem aus Deutschland
