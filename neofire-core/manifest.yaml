@@ -47,6 +47,22 @@ license:
   link: https://www.neofire.de/agb
 categories:
   - productivity
+screenshots:
+  - bg: background.jpg
+    screenshot: screenshot-shop.png
+    text:
+      de: Startseite eines frisch installierten Shops im Standard-Design
+      en: Home page of a freshly installed shop in the default design
+  - bg: background.jpg
+    screenshot: screenshot-dashboard.png
+    text:
+      de: Dashboard der Administration direkt nach der Installation
+      en: Administration dashboard right after installation
+  - bg: background.jpg
+    screenshot: screenshot-login.jpg
+    text:
+      de: Anmeldung zur Administration von neofire Core
+      en: Login to the neofire Core administration
 domains:
   main:
     userInput: HOST
