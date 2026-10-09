@@ -54,6 +54,16 @@ screenshots:
       de: neofire Core – Shopsystem aus Deutschland
       en: neofire Core – shop system from Germany
   - bg: background.jpg
+    screenshot: screenshot-sport-produkt.jpg
+    text:
+      de: Produktseite mit Varianten, Bildergalerie und Warenkorb
+      en: Product page with variants, image gallery and cart
+  - bg: background.jpg
+    screenshot: screenshot-sport-start.jpg
+    text:
+      de: Startseite eines Sport-Shops, gestaltet mit dem Layout-Editor
+      en: Home page of a sports shop, designed with the layout editor
+  - bg: background.jpg
     screenshot: screenshot-shop.png
     text:
       de: Startseite eines frisch installierten Shops im Standard-Design
