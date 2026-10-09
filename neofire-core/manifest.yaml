@@ -49,6 +49,11 @@ categories:
   - productivity
 screenshots:
   - bg: background.jpg
+    screenshot: screenshot-logo.png
+    text:
+      de: neofire Core – Shopsystem aus Deutschland
+      en: neofire Core – shop system from Germany
+  - bg: background.jpg
     screenshot: screenshot-shop.png
     text:
       de: Startseite eines frisch installierten Shops im Standard-Design
